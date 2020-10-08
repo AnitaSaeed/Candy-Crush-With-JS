@@ -5,12 +5,12 @@ const squares = []
 let score = 0
 
 const candyColors = [
-    'red',
-    'yellow',
-    'orange',
-    'purple',
-    'green',
-    'blue'
+    '#ffadad',
+    '#ffd6a5',
+    '#fdffb6',
+    '#caffbf',
+    '#9bf6ff',
+    '#bdb2ff'
 ]
 
 // Create Board
